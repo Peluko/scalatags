@@ -1,5 +1,11 @@
-out/*
+
+js/target/*
+jvm/target/*
 target/*
+js/project/target/*
+js/project/project/*
+jvm/project/target/*
+jvm/project/project/*
 project/target/*
 project/project/*
 .idea/*
